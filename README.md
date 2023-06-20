@@ -1,6 +1,6 @@
 # PySpark-on-GoogleColab
 A Beginner’s Hands-on Guide to PySpark with Google Colab-Tutorial Notebook From Scratch
-Note: All the details have been saved in a Notebook, you can run this notebook on your Google Colab easily!
+# Note: All the details have been saved in a Notebook, you can run this notebook on your Google Colab easily!
 
 # 1- Use !wget to download the dataset to the server
 Colab is actually a Centos virtual machine with GPU. You can directly use the linux wget command to download the dataset to the server. The default is to download to the /content path
